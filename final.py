@@ -8,7 +8,7 @@ while True:
     print("2) Show all the clients in Txt file")
     print("3) Show Excel file clients and sales")
     print("4) Analyse Excel file clients and sales")
-    print("5) Analyse CSV file")
+    print("5) Analyse CSV files")
     print("6) Quit\n")
 
     # Allow user to make a choice
